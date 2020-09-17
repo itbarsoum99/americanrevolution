@@ -242,4 +242,10 @@ body::-webkit-scrollbar {
   .timeline-content .date {
     letter-spacing: 0px;
   }
+  img {
+    max-width: 200px;
+  }
+  img {
+    max-width: 200px;
+  }
 }
