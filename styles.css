@@ -15,16 +15,21 @@ body {
   background-color: #111;
 }
 
-#title {
+#title, #me {
   color: #ffffff !important;
   text-align: center;
-  margin-bottom: 1vh;
   display: block;
   width: 100%;
   flex-wrap: wrap;
-  padding-top: 4vh;
 }
 
+#me {
+  margin-bottom: 1vh;
+}
+
+#title {
+  padding-top: 4vh;
+}
 
 
 img {
